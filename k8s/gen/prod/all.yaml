@@ -12371,7 +12371,7 @@ spec:
       containers:
       - args: []
         env: []
-        image: ghcr.io/paulrudin/livefpl:0.0.24 # {"$imagepolicy": "flux-system:livefpl"}
+        image: ghcr.io/paulrudin/livefpl:0.0.25 # {"$imagepolicy": "flux-system:livefpl"}
         imagePullPolicy: IfNotPresent
         name: livefpl
         ports:
